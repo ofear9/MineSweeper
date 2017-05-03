@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/ranendelman/Desktop/Minesweeper_Final14-1-17/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
+        <dex dex="/Users/ranendelman/Desktop/Minesweeper_Final14-1-17/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-appindexing-8.4.0_9b198de3beeeeb9af775efd8697b182ad9260070.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ranendelman/Desktop/Minesweeper_Final14-1-17/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="0194a7409c40de94fb539d4ad9928ec5d47afeb7">
+        <dex dex="/Users/ranendelman/Desktop/Minesweeper_Final14-1-17/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-safetynet-8.4.0_9f36a029415316d9a544ef230b18411a30dc9ba0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ranendelman/Desktop/Minesweeper_Final14-1-17/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="/Users/ranendelman/Desktop/Minesweeper_Final14-1-17/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-8.4.0_17f79f66862703573c3c2412c997a20cae9ccf2a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ranendelman/Desktop/Minesweeper_Final14-1-17/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="b82b8e847173c28efffcd291b2a0b1ae9ad17fa4">
+        <dex dex="/Users/ranendelman/Desktop/Minesweeper_Final14-1-17/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-identity-8.4.0_dc5d538e63db286fd59cdc7df3f6bd7645c4fa6b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ranendelman/Desktop/Minesweeper_Final14-1-17/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/jars/libs/internal_impl-23.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
+        <dex dex="/Users/ranendelman/Desktop/Minesweeper_Final14-1-17/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.0_6615fbdb84157f822daccf2f8cb97aa259d18e1a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ranendelman/Desktop/Minesweeper_Final14-1-17/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="9cad249cf62751a323d9af568caf12284b7d6062">
+        <dex dex="/Users/ranendelman/Desktop/Minesweeper_Final14-1-17/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-nearby-8.4.0_f26f2097a59c508d13454006421c23716724d16a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ranendelman/Desktop/Minesweeper_Final14-1-17/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="2d7fe76982677315c4dc4edfb459c8ca718a9d4c">
+        <dex dex="/Users/ranendelman/Desktop/Minesweeper_Final14-1-17/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-gcm-8.4.0_7d90d0301447280f52ed0fc1bfb571128c7913e5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ranendelman/Desktop/Minesweeper_Final14-1-17/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.0/jars/libs/internal_impl-23.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="6e239441500605809818997dd63b62a947195f8c">
+        <dex dex="/Users/ranendelman/Desktop/Minesweeper_Final14-1-17/app/build/intermediates/pre-dexed/debug/internal_impl-23.2.0_2c1b4612171f7c7bc0bbe8bd818693bd1d296863.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ranendelman/Desktop/Minesweeper_Final14-1-17/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="3a364cc6b698d1b3b2d284f64618daaa7fe77ddf">
+        <dex dex="/Users/ranendelman/Desktop/Minesweeper_Final14-1-17/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-games-8.4.0_ba4691cb79791c32794a14d6bcfdf3c080d47ed9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ranendelman/Desktop/Minesweeper_Final14-1-17/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="08d34b2d135c1cc96ab506fd8bf6916d1e2f391a">
+        <dex dex="/Users/ranendelman/Desktop/Minesweeper_Final14-1-17/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-panorama-8.4.0_d3fb3450e6afea87dd97766e9e21c9a078b02a9a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ranendelman/Desktop/Minesweeper_Final14-1-17/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="966e5771a5a2ebfb31bf00d7cd6cd2546d245517">
+        <dex dex="/Users/ranendelman/Desktop/Minesweeper_Final14-1-17/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-auth-8.4.0_47e5346a316f13423fd9c8b829d1af8039147b33.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ranendelman/Desktop/Minesweeper_Final14-1-17/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="b36f30ac5ee5d5214f4b1e2ac49f11889d58e71a">
+        <dex dex="/Users/ranendelman/Desktop/Minesweeper_Final14-1-17/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-drive-8.4.0_0d6cc49eedb52549e12ba73ceea733460aea61b5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ranendelman/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.2.0/support-annotations-23.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="c5bf571bb10462bd90e5419ade67793f71acbc87">
+        <dex dex="/Users/ranendelman/Desktop/Minesweeper_Final14-1-17/app/build/intermediates/pre-dexed/debug/support-annotations-23.2.0_fb95d79c573858124b4db8bd5aff0d9f78ab0e90.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ranendelman/Desktop/Minesweeper_Final14-1-17/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="f2df436a8f02ce7e4d7d209671fc45f97c470f0e">
+        <dex dex="/Users/ranendelman/Desktop/Minesweeper_Final14-1-17/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-wallet-8.4.0_38accb74c8db6f3300d76878125b765d83536232.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ranendelman/Desktop/Minesweeper_Final14-1-17/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
+        <dex dex="/Users/ranendelman/Desktop/Minesweeper_Final14-1-17/app/build/intermediates/pre-dexed/debug/com.android.support-mediarouter-v7-23.0.0_20f4881e951ed30a330ec802c0106ebd10b8d0ba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ranendelman/Desktop/Minesweeper_Final14-1-17/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="1c9f35e952b212c843f7bd2c7eec8e82ad95602e">
+        <dex dex="/Users/ranendelman/Desktop/Minesweeper_Final14-1-17/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-analytics-8.4.0_5142921e2e86fdaccbf02a3b86c0dbfe59a73a0f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ranendelman/Desktop/Minesweeper_Final14-1-17/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="9fe026fb4c7fce21bc5142f6e1bdf844f28061ac">
+        <dex dex="/Users/ranendelman/Desktop/Minesweeper_Final14-1-17/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-appinvite-8.4.0_a7aeac70a0414d0d9577ad003a661b92456618a3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ranendelman/Desktop/Minesweeper_Final14-1-17/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="6e3578f92f7462d1a935a1d36173e3bdd1234976">
+        <dex dex="/Users/ranendelman/Desktop/Minesweeper_Final14-1-17/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.2.0_4c659bfb25fe7f5eb88371a963e9f9c5d6af5a91.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ranendelman/Desktop/Minesweeper_Final14-1-17/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="1a78298e7724d5440d210bcb946b3493250d354d">
+        <dex dex="/Users/ranendelman/Desktop/Minesweeper_Final14-1-17/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-plus-8.4.0_7f12950991c350c00647a582ae346793594706db.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ranendelman/Desktop/Minesweeper_Final14-1-17/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="b5e7892fb0708e792e0e933c4c0a0ca0ac7831fb">
+        <dex dex="/Users/ranendelman/Desktop/Minesweeper_Final14-1-17/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-ads-8.4.0_a1ce1139ccc9855f4c29d09c626e27fef80ad456.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ranendelman/Desktop/Minesweeper_Final14-1-17/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="dfecc4d835cdabcdecf7e95f0d20a3ef1e9d8ef4">
+        <dex dex="/Users/ranendelman/Desktop/Minesweeper_Final14-1-17/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-vision-8.4.0_67337c448d98fbfae8ae3fa583826f040e3592f5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ranendelman/Desktop/Minesweeper_Final14-1-17/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-measurement/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="613298b7aa012f121ce542881c0a599ebd8078f2">
+        <dex dex="/Users/ranendelman/Desktop/Minesweeper_Final14-1-17/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-measurement-8.4.0_00ffee05b204c445fc291f9e738ced3ac6f63e4f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ranendelman/Desktop/Minesweeper_Final14-1-17/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="/Users/ranendelman/Desktop/Minesweeper_Final14-1-17/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-8.4.0_ac0ae81f37f426f57ced853f9edc2a5a6e3f852e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ranendelman/Desktop/Minesweeper_Final14-1-17/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="8c108c22c99e794eff255bb34d2a461200c4cbb0">
+        <dex dex="/Users/ranendelman/Desktop/Minesweeper_Final14-1-17/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.2.0_2f8456893e811ff38804a763bb334ee98567ea09.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ranendelman/Desktop/Minesweeper_Final14-1-17/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="292a9fa091757208efa65e77eef63088247e51f3">
+        <dex dex="/Users/ranendelman/Desktop/Minesweeper_Final14-1-17/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.2.0_c3c32c8e525a686765fb56d2e916c21a89edb523.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ranendelman/Desktop/Minesweeper_Final14-1-17/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="04de44f90606c77f3b28cf44861f306290505aac">
+        <dex dex="/Users/ranendelman/Desktop/Minesweeper_Final14-1-17/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-maps-8.4.0_f242de53d2f9e85e3ce043a3c6628c397d21aace.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ranendelman/Desktop/Minesweeper_Final14-1-17/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="a8412b654dab86d57bf90683367488211c8a81f1">
+        <dex dex="/Users/ranendelman/Desktop/Minesweeper_Final14-1-17/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-location-8.4.0_3e2c1f86ceafdb181cdd451bcd7d03be681df3cd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ranendelman/Desktop/Minesweeper_Final14-1-17/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="551e78f21acf69ebfb489c0e79647824c838013e">
+        <dex dex="/Users/ranendelman/Desktop/Minesweeper_Final14-1-17/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-cast-8.4.0_d7ae6a247dbf9f81ce23f34911681f9bd7b383c9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ranendelman/Desktop/Minesweeper_Final14-1-17/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="c54246475c1bb64ac6857d1320364bfbfeda2c46">
+        <dex dex="/Users/ranendelman/Desktop/Minesweeper_Final14-1-17/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-fitness-8.4.0_3ea5baaf82dc3c747298ed35a319db22b405ce4b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ranendelman/Desktop/Minesweeper_Final14-1-17/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="e167a34eaca0b31704212f43f9576ea84e05046f">
+        <dex dex="/Users/ranendelman/Desktop/Minesweeper_Final14-1-17/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-wearable-8.4.0_f9fb923dc99884673b5434532d4acb385fd5f4b5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ranendelman/Desktop/Minesweeper_Final14-1-17/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="e5f32fa48a3eb2de0c987025c11b6e3864b634d9">
+        <dex dex="/Users/ranendelman/Desktop/Minesweeper_Final14-1-17/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.2.0_b79cc9dcdf48f2f31c67d026ae14c712e23219f5.jar" />
+    </item>
+
+</items>

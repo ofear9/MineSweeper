@@ -1,0 +1,38 @@
+{
+  "project_info": {
+    "project_number": "810444789278",
+    "project_id": "minesweeper-8b690"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:810444789278:android:b380b4e67b064b66",
+        "android_client_info": {
+          "package_name": "minesweeper.apk"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBR5-4gE_tzIR4kDK2OOtatTONUMSkgi_o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 2,
+          "analytics_property": {
+            "tracking_id": "UA-90372650-1"
+          }
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:background="@color/playbackground"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.example.ranendelman.minesweeper.Activities.MainActivity"
+    android:gravity="center">
+
+    <TextView
+        android:layout_width="75dp"
+        android:layout_height="61dp"
+        android:layout_gravity="top|center"
+        android:gravity="center"
+        android:id="@+id/timer"
+        android:text="@string/timer"
+        android:textColor="@color/timer"
+        android:background="@drawable/timericon"
+        android:textSize="18sp" />
+
+    <GridView
+        android:layout_marginTop="10dp"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_weight="9"
+        android:id = "@+id/gridview"
+        android:columnWidth="90dp"
+        android:numColumns="auto_fit"
+        android:verticalSpacing="2dp"
+        android:horizontalSpacing="2dp"
+        android:stretchMode="columnWidth"
+        android:gravity="center"
+        >
+    </GridView>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="top|center"
+        android:id="@+id/remainingflags"
+        android:text="@string/remainingFlags"
+        android:textColor="@color/timer"
+        android:background="@color/playbackground"
+        android:textSize="18sp" />
+
+    <Button
+        android:text="@string/highScoresOption"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/HighScores_play"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true" />
+
+</LinearLayout>
